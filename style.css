@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210316/pngtree-pink-cute-baby-clouds-stars-background-image_585930.jpg");
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
